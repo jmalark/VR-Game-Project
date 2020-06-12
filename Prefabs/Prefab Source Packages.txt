@@ -1,0 +1,17 @@
+Red car is from BackgroundCars and was called FuzzyRed prior to renaming
+
+Rock1 is from FantasyEnvironments
+
+Rocks a through f are from MedievalTownExteriors
+
+Trees 1 through 4 and bushes 1 through 6 are from NatureStarterKit2
+
+Camp chair is from CampingChairAccessories
+
+Tent is from Tents
+
+Baker House is from Baker House
+
+EA03_Fence_Plank_02a and _02d and 02b and 02c are from Slavic World Free by EmaceArt
+
+Flowerpot01 and 03 are from Fantasy_Kingdom_Pack_Lite
