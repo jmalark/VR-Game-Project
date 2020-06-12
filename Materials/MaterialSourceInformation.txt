@@ -1,0 +1,30 @@
+Material Source Pack Information
+
+Grass used to be named ground_grass and was from free Unity store package FantasyEnvironments
+
+Cobblestone was from Texture Haven and called cobblestone_1k
+
+DirtPath was from Texture Haven and called grass_path_2_1k
+
+TownDirt was from Texture Haven and called brown_mud_dry_1k
+
+All of the controller materials/textures were from Valem's compilation of free assets taken from the various manufacturer websites
+https://www.youtube.com/watch?v=VdT0zMcggTQ   Materials were renamed for clarity
+
+Hand materials are from Oculus
+
+RedCar is from BackgroundCars and used to be called FuzzyRed
+
+Rock1 is from FantasyEnvironments and gets used on rock1 from that pack and some other rocks from a different pack
+
+Building_Texture is from MedievalTownExteriors and includes the materials sometimes used for rocks a though f
+
+The 'optimized leaf' and optimized bark materials come from NatureStarterKit2 for the trees and bushes with numbers
+
+The camp chair related materials / textures are from CampingChairAccessories
+
+Tent material is from Tents
+
+Baker House is from Baker House
+
+Slavika_Colorsheet (fence for example) is from Slavic World free by EmaceArt
